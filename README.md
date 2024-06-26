@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Druthii
 - 👀 I’m interested in coding and learning new skills
-- 🌱 I’m currently pusing my bachelors in cse
+- 🌱 I’m a recent computer science graduate
 - 📫 Reach me @druthin2003@gmail.com
 
 <!---
